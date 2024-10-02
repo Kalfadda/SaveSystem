@@ -1,0 +1,24 @@
+{
+  "name": "com.scythedevteam.savesystem",
+  "version": "1.0.0",
+  "displayName": "Save System",
+  "description": "A robust save system that handles all primitive types, positions, and rotations for Unity.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Scythe Dev Team",
+    "email": "your-email@example.com",
+    "url": "https://github.com/Kalfadda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kalfadda/SaveSystem.git"
+  },
+  "keywords": [
+    "save",
+    "system",
+    "serialization",
+    "unity"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
